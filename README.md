@@ -1,2 +1,2 @@
 # Hotel-Booking-Site
-![image](https://user-images.githubusercontent.com/93733796/187504760-3060a05d-3580-4f7d-9bc7-996f591a611d.png)
+![Hotel Site](https://user-images.githubusercontent.com/93733796/187505371-bcdd63c1-161d-4e19-b60d-8acc38fe770a.png)
